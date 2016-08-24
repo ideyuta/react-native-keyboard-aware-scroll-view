@@ -1,4 +1,4 @@
-/* @flow */
+/* @noflow */
 
 import KeyboardAwareMixin from './lib/KeyboardAwareMixin'
 import KeyboardAwareScrollView from './lib/KeyboardAwareScrollView'
